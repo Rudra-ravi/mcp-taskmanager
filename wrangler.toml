@@ -1,0 +1,11 @@
+name = "mcp-taskmanager"
+main = "worker.ts"
+compatibility_date = "2024-03-12"
+
+[build]
+command = "npm run build"
+
+[[kv_namespaces]]
+binding = "TASKMANAGER_KV"
+id = "19b7d46cff234294bcc1582f87b5b886"
+preview_id = "f63750f430274b9cadcd56e9506c4a00" 
