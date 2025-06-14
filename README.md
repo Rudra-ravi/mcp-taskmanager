@@ -397,7 +397,6 @@ We welcome contributions! Here's how to get started:
 - 📚 Documentation enhancements
 - ✨ New MCP tools and features
 - 🧪 Test coverage improvements
-- 🎨 UI/UX enhancements for web interface
 
 ## License
 
