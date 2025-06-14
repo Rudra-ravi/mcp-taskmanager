@@ -411,7 +411,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Check this README and inline code comments
 
 ### Community Resources
-- **Glama MCP Directory**: [View on Glama](https://glama.ai/mcp/servers/Rudra-ravi/mcp-taskmanager)
 - **MCP Documentation**: [Model Context Protocol](https://modelcontextprotocol.io/)
 - **Cloudflare Workers Docs**: [Learn more about Workers](https://developers.cloudflare.com/workers/)
 
